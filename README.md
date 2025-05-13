@@ -14,3 +14,5 @@ This dataset contains agricultural data for 70000 samples aimed at predicting cr
 
 ## CROP YIELD PREDICTION APP
 https://machinelearningproject-cropyieldprediction.streamlit.app/
+
+**Dataset taken from:** https://www.kaggle.com/datasets/samuelotiattakorah/agriculture-crop-yield
