@@ -12,7 +12,6 @@
 ## DATASET OVERVIEW:
 This dataset contains agricultural data for 70000 samples aimed at predicting crop yield (in tons per hectare) based on various factors. The dataset is used for regression tasks in machine learning, especially for predicting crop productivity.
 
-## CROP YIELD PREDICTION APP
-https://machinelearningproject-cropyieldprediction.streamlit.app/
+**View my Project at:** https://machinelearningproject-cropyieldprediction.streamlit.app/
 
 **Dataset taken from:** https://www.kaggle.com/datasets/samuelotiattakorah/agriculture-crop-yield
